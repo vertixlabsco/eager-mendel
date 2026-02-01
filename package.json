@@ -9,7 +9,10 @@
     "ajv": "6.12.6",
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.0",
-    "lucide-react": "0.563.0"
+    "lucide-react": "0.563.0",
+  "overrides": {
+    "ajv": "6.12.6"
+
   },
   "devDependencies": {
     "@types/react": "19.0.0",
@@ -28,9 +31,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  },
-"overrides": {
-  "ajv": "6.12.6"
   ]
   
 }
