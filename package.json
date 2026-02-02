@@ -16,14 +16,14 @@
     "react-scripts": "^5.0.1",
     "ajv": "6.12.6",
     "lucide-react": "0.563.0"
+    },
+  "overrides": {
+    "ajv": "6.12.6"
   },
   "devDependencies": {
     "@types/react": "18.2.48",
     "@types/react-dom": "18.2.18",
     "typescript": "5.7.2"
-  },
-  "overrides": {
-    "ajv": "6.12.6"
   },
   "browserslist": [
     ">0.2%",
